@@ -1,11 +1,9 @@
 # 👋 Hi, I'm Vaibhav
 
-🎯 I'm 18 and learning to become a **blockchain developer**.
-
-I already understand how crypto works — including **NFTs**, **tokens**, **minting**, and **Web3**. Now I’m learning how to build real projects with code.
+ I'm 18 and learning to become a **blockchain developer**.
 ---
 
-## 🧠 What I Know
+##  What I Know
 - ✅ Strong basics of **crypto** and **blockchain**
 - ✅ Understand how **NFTs**, **tokens**, and **smart contracts** work
 ---
@@ -18,7 +16,7 @@ I already understand how crypto works — including **NFTs**, **tokens**, **mint
 - 🌐 **Full Stack** and 🕹️ **Game Dev** (maybe later)
 ---
 
-## 🎯 My Goal
+##  My Goal
 To become a **blockchain developer** and build real Web3 projects people can use.
 ---
 
