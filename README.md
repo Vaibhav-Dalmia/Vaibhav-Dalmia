@@ -1,36 +1,25 @@
-# 👋 Hi, I'm Vaibhav
+# 👋 Hi, I'm Vaibhav  
 
- I'm 18 and learning to become a **blockchain developer**.
 ---
 
-##  What I Know
-- ✅ Strong basics of **crypto** and **blockchain**
-- ✅ Understand how **NFTs**, **tokens**, and **smart contracts** work
+## 🎓 About Me  
+I’m a **1st year B.Tech student in Computer Science (AI specialization)**, passionate about building a strong foundation in programming and development.  
+
 ---
 
-## 🛠️ What I’m Learning
-- 📘 **JavaScript** (current focus)
-- 🎨 **HTML & CSS** (coming soon)
-- 🔧 **Git & GitHub**
-- 📦 **Solidity** for smart contracts (soon)
-- 🌐 **Full Stack** and 🕹️ **Game Dev** (maybe later)
+## 🛠️ What I’m Learning  
+- 📘 **JavaScript** (core concepts + problem solving)  
+- 🎨 **HTML & CSS** (web design basics)  
+- 🌐 Exploring **Full Stack Development** step by step  
+
 ---
 
-##  My Goal
-To become a **blockchain developer** and build real Web3 projects people can use.
----
+## 🚀 Goals  
+- Strengthen my fundamentals in **C, Java, and DSA**  
+- Build real-world projects in **web & blockchain**  
+- Transition towards **AI agents** after mastering the basics  
 
-## 📌 What I'm Doing
-- Posting daily progress
-- Sharing code, screenshots, and learnings
-- Building in public to stay consistent
 ---
 
 Thanks for visiting my profile!  
-Feel free to follow along 👇
-
-
-<!---
-Vaibhav-Dalmia/Vaibhav-Dalmia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⭐ Let’s connect and grow together 🚀
