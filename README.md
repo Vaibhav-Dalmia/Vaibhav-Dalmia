@@ -3,7 +3,7 @@
 ---
 
 ## 🎓 About Me  
-I’m a **1st year B.Tech student in Computer Science (AI specialization)**, passionate about building a strong foundation in programming and development.  
+I’m a ** B.Tech student in Computer Science (AI specialization)**, passionate about building a strong foundation in programming and development.  
 
 ---
 
